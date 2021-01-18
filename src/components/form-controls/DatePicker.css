@@ -1,0 +1,6 @@
+.react-datepicker-wrapper {
+  display: block !important;
+}
+.react-datepicker-wrapper ~ .invalid-feedback {
+  display: block !important;
+}
