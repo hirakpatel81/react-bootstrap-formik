@@ -1,5 +1,5 @@
 # Reusable React-Bootstrap form contrlos with Formik and Yup
-This are simple reusable react-bootrsap form controls validated using formik and yup. These controls are also applied bootstrap error styles.
+These are simple reusable react-bootrsap form controls validated using formik and yup. These controls are also applied bootstrap error styles.
 
 ## How to use
   - Create a react project using [Create React App](https://github.com/facebook/create-react-app)
